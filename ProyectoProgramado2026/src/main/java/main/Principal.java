@@ -13,5 +13,5 @@ public class Principal {
     public static void main(String[] args) {
         ControladorMenu menu = new ControladorMenu();
         menu.inicio();
-    }
-}
+    }//fin del main 
+}//fin de la principal 
