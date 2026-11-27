@@ -1,0 +1,9 @@
+vista\InfoPersonajes.class
+vista\MenuPrincipal.class
+modelo\Capitulo.class
+modelo\Pregunta.class
+controlador\ControladorMenu.class
+modelo\Personajes.class
+controlador\Controlador.class
+vista\GUI_Juego.class
+vista\Instrucciones.class
